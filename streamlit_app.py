@@ -69,7 +69,7 @@ elif selected_option == "Biz bilan bog'lanish":
     st.write("📱 @Renessans3010")
     st.write(" ")
     st.write(" ")
-    st.write("Mnzil:")
+    st.write("Manzil:")
     st.write("📍 Parkent tumani, Nomdanak qishlog'i, Chinorli ko'chasi 17-uy.")
     st.write("Shu linkga bosing: https://maps.app.goo.gl/9Vw9n4Nrh6qWR24N8")
 
