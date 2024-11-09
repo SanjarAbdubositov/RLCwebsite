@@ -12,7 +12,7 @@ background_css = '''
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        color: white;
+        color: black;
     }
     </style>
 '''
